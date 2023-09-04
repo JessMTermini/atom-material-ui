@@ -42,19 +42,19 @@ You'll find the color picker there.
   
 There is an issue currently getting the chosen colors in settings to work when installing and trying to use it's sister product [Atom Material Syntax theme](https://github.com/JessMTermini/atom-material-syntax), and also when choosing to use Atom's "One Light" and "One Dark" Themes.
 
-As a current quick work-around, to get your chosen color options to work simply choose between any of the other built-in theme choices in Atom (Now Pulsar). So far we have tested "Atom Light", "Atom Dark", "Base16 Tomorrow Light", "Base16 Tomorrow Dark, and "Solarized Light" and "Solarized Dark", all to work!!
+As a current quick work-around, to get your chosen color options to work simply choose between any of the other built-in theme choices in Atom (Now Pulsar). So far we have tested "Atom Light", "Atom Dark", "Base16 Tomorrow Light", "Base16 Tomorrow Dark, and "Solarized Light" and "Solarized Dark", all to work!
 
-If you are having issues getting your color choices to work, after setting them, change themes back to and then from one of the above themes a few times and this should get it to work. 
+If you are having issues getting your color choices to work, after setting them, change themes from your final choice selection back to and then from any one of the above themes a few times and this snap it back into a sort of "reset" enough to where it should get it to work. If however you find that you still cannot get it to work for you, we'd love to hear more about your specific situation, however, up until this point - so far we have found this to be a good fix, every time. 
 
 ### Custom Font Size Changes
 
-Changing the font from within the theme editor seems to make the whole editor go into buzurk mode. Currently it is NOT recommended. We are currently looking into this issue. 
+Changing the font from within the theme editor settings seems to make the whole editor go wonky. Currently it is NOT recommended. WOnce we start development, wee will be looking further into this issue. 
 
 ### Internal Themes - Settings Resets
 
-Some of the themes internal settings such as the width and height of the tabs if you have set them seem to reset upon custom color changes. Luckily this is a simple fix, just re-add the checkmark to implement full-width tabs again and you should be good to go.
+Some of the themes internal settings such as the width and height of the tabs if you have set them, seem to keep resetting upon making any custom color changes via the theme setting's color picker. Luckily this is a simple workaround for this, you can just re-add the checkmark to implement full-width tabs again after you have finalized making your color choices, and you should be good to go.
 
-Other than that, it really is a beautiful theme. And i still choose to use it, even in this state as it doen't seem to cause any errors major or otherwise anywheere else in the editor, so I am very pleased with it. Many thanks to this themes original creator!
+Other than that, it really is a beautiful theme. And I still choose to use it, even its current state, as it doen't seem to be causing any other errors, major or otherwise, anywheere else in the editor, so I am very pleased with it, many times over... Many thanks go out to the original developer!
 
 # Screenshots
 
